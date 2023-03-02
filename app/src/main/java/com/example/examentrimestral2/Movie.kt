@@ -1,0 +1,1 @@
+data class Movie(var nombre : String, var duracion : String, var director : String, var lanzamiento : String)
